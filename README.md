@@ -124,17 +124,3 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 |
 ![Visitor Count](https://profile-counter.glitch.me/{GitHub_Desktop_Simplified_Chinese}/count.svg)
 
 ---
-
-昵称：我只是你的过客
-
-个性签名：每个人都是每个人的过客
-
-国籍：中华人民共和国 / 现居：中国湖北省武汉市
-
----
-
-[MIT License](https://github.com/743859910/GitHub_Desktop_Simplified_Chinese/blob/master/LICENSE)
-
-Copyright © 2008 - 2025 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
-
----
