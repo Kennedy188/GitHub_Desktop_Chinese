@@ -21,17 +21,6 @@
 
 GitHub Desktop 官网：https://desktop.github.com
 
-<<<<<<< HEAD
-GitHub Desktop 发行说明：https://desktop.github.com/release-notes
-
-GitHub Desktop 下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
-
-GitHub Desktop 版本：| 3.2.1 - 3.4.18 | 
-
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 | 
-
-网盘下载：[点击下载](https://pan.quark.cn/s/4b9979bfdc27)
-=======
 GitHub Desktop 仓库：https://github.com/desktop/desktop
 
 GitHub Desktop 发行版：https://github.com/desktop/desktop/releases/latest
@@ -43,9 +32,10 @@ GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/r
 GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
 GitHub Desktop 版本：| 3.2.1 - 3.4.18 | 
->>>>>>> c861748e4da584c66e9d6f0979ec8bf840730a79
 
 GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 | 
+
+网盘下载：[点击下载](https://pan.quark.cn/s/4b9979bfdc27)
 
 ---
 
@@ -56,13 +46,9 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 |
 
 # GitHub Desktop for 2025年3月12日 3.4.18 发布说明
 
-<<<<<<< HEAD
-### 从官网下载 GitHub Desktop 安装包时，推荐使用迅雷等专业下载工具。有VPN可以无视墙内下载慢问题！
-=======
 **固定**
  - 防止由于非严重错误而导致崩溃 - [#20150](https://github.com/desktop/desktop/pull/20150)
  - 恢复上次检查的“关于”对话框中缺少的空格 - [#20094](https://github.com/desktop/desktop/pull/20094)。谢谢 ！
->>>>>>> c861748e4da584c66e9d6f0979ec8bf840730a79
 
 ---
 
@@ -98,11 +84,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-<<<<<<< HEAD
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.5】\resources\app
-=======
 本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.18】\resources\app
->>>>>>> c861748e4da584c66e9d6f0979ec8bf840730a79
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
@@ -116,8 +98,6 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 |
 ### 如果您觉得本工具对您有帮助，不妨在右上角点亮一颗小星星，以示鼓励！
 
 ---
-<<<<<<< HEAD
-=======
 
 <p align="center">
   <img src="./img/1.webp">
@@ -158,4 +138,3 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 |
 Copyright © 2008 - 2025 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
->>>>>>> c861748e4da584c66e9d6f0979ec8bf840730a79
